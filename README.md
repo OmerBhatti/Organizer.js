@@ -14,8 +14,8 @@
 
 #### After
 <img src="https://github.com/OmerBhatti/Organizer.js/blob/main/images/after.jpg">
-----
 
+----
 <span>BEFORE
 <img src="https://github.com/OmerBhatti/Organizer.js/blob/main/images/before(tree).jpg"></span>
 <span>AFTER
