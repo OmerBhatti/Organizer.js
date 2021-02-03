@@ -1,4 +1,4 @@
-# Organizer.js
+# Organize.js
 
 ### Uses
 
