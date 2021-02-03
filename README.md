@@ -1,4 +1,5 @@
 # Organize.js
+Organise all your files in specific folders.
 
 ### Uses
 
